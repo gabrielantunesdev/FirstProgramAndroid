@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="hello">Hello, %1$s!</string>
+    <string name="hello_word">Hello, word!</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="send">send</string>
+    <string name="clear">Clear</string>
+    <string name="No_To_Clean">No to clean</string>
+    <string name="send_to_out">send to out</string>
+</resources>

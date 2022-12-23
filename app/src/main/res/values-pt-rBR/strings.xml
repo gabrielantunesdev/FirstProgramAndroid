@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minha aplicação</string>
+    <string name="hello">Olá, %1$s!</string>
+    <string name="hello_word">Olá, mundo!</string>
+    <string name="type_your_name">Digite seu nome</string>
+    <string name="send">Enviar</string>
+    <string name="clear">Limpar</string>
+    <string name="No_To_Clean">Não tem o que limpar</string>
+    <string name="send_to_out">Enviar para fora</string>
+</resources>
